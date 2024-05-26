@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 223 30" width="223" height="30">
+	<title>githubbutton_sm-svg</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ff5e5b } 
+		.s1 { fill: #ffffff } 
+		.t2 { font-size: 23px;fill: #ffffff;font-weight: 400;font-family: "DMSerifText-Regular", "DM Serif Text" } 
+	</style>
+	<g id="Artboard">
+		<path id="Rectangle" class="s0" d="m0 8c0-4.4 3.6-8 8-8h207c4.4 0 8 3.6 8 8v14c0 4.4-3.6 8-8 8h-207c-4.4 0-8-3.6-8-8z"/>
+		<g id="Group">
+			<path id="Rectangle-2" fill-rule="evenodd" class="s1" d="m43 7c3.1 0 5.6 2.5 5.6 5.6v0.3c0 3.1-2.5 5.7-5.6 5.7h-1.6v1.6c0 1.5-1.1 2.6-2.6 2.6h-12.2c-1.4 0-2.6-1.1-2.6-2.6v-11.9c0-0.7 0.6-1.3 1.3-1.3zm-1.6 3v5.6h1.5c1.5 0 2.7-1.3 2.7-2.8 0-1.6-1.2-2.8-2.7-2.8z"/>
+			<path id="Path-2" class="s0" d="m32.4 12.3q0.6-1.8 2.8-1.8c2.3 0 3.1 2.8 1.9 4.6q-1.2 1.9-4.7 4.7-3.6-2.8-4.8-4.7c-1.2-1.8-0.3-4.6 1.9-4.6q2.3 0 2.9 1.8z"/>
+		</g>
+		<text id="Buy me a coffe" style="transform: matrix(1,0,0,1,55,4)" >
+			<tspan x="2.8" y="16.1" class="t2">B</tspan><tspan  y="16.1" class="t2">u</tspan><tspan  y="16.1" class="t2">y</tspan><tspan  y="16.1" class="t2"> </tspan><tspan  y="16.1" class="t2">m</tspan><tspan  y="16.1" class="t2">e</tspan><tspan  y="16.1" class="t2"> </tspan><tspan  y="16.1" class="t2">a</tspan><tspan  y="16.1" class="t2"> </tspan><tspan  y="16.1" class="t2">c</tspan><tspan  y="16.1" class="t2">o</tspan><tspan  y="16.1" class="t2">f</tspan><tspan  y="16.1" class="t2">f</tspan><tspan  y="16.1" class="t2">e
+</tspan>
+		</text>
+	</g>
+</svg>
