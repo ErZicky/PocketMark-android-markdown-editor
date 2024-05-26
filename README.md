@@ -17,24 +17,30 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 
 ## Features and Screenshots
 
-//home page screenshot and gif of deleteing notes
-
+<img src="SRC github readme/grid.png" width="432" align="center"   vspace="2"> <img src="SRC github readme/fluiddelete.gif" width="200" align="center"   vspace="2"> 
 
 ✨​ PocketMark's goal is to redefine markdown apps, traditionally known for their barebones UI, by offering a more visually appealing and intuitive experience. On the main page, notes are organized in a dynamic grid format, ensuring an organized and fluid interface. The grid dynamically adjusts itself when a note is deleted or a new one is created/modified. By default, the most recently modified note occupies the top position, although users can change this and order the notes by alphabetical order in the settings.
 
-Notes can have a color assigned to them to better keep track of them and search them easily.
 
 
-//screenshot  e gif dell'editor 
+🎨 Notes can have a color assigned to them to better keep track of them and search them easily.
+
+
+
+
+
+<img src="SRC github readme/fluidtool.gif" width="200" align="center"   vspace="2"> <img src="SRC github readme/fluidocchio.gif" width="200" align="center"   vspace="2">  <img src="SRC github readme/ezgif-4-67eccaf0ce.gif" width="200" align="center"   vspace="2"> 
 
 🖋️ The editor is designed to maximize screen space for the user. The side toolbar remains collapsed when not in use, but it can be easily accessed either by sliding it open or by clicking the icon located in the right corner. (or you can just type the markdown syntax without using it). By pressing the eye icon, will switch between viewing the formatted text and accessing the editor interface with a nice little animation.
-
-// screenshot o gif dell'editor
 
 💡 PocketMark supports the complete Markdown syntax (including images, gift and tables), which is highlighted for clarity as it's being written in the editor.
 
 
-//screenshot of share panel
+<img src="SRC github readme/sharepanel.jpg" width="232" align="center"   vspace="2">
+
+
+
+
 
 📨 Notes are easaly shareble with just couple of taps in 3 format:
 
@@ -42,11 +48,15 @@ Notes can have a color assigned to them to better keep track of them and search 
 - MarkDown file
 - Image (while not ideal for lengthy files, it's perfect for shorter ones)
 
-// gif della ricerca
+<img src="SRC github readme/ezgif-4-dd0a973869.gif" width="200" align="center"   vspace="2">
 
 🔍​ On the homepage, you can conveniently search for notes using keywords presents in the title or body. Additionally, you can search based on the color assigned to the note, or combine both criteria for a more refined search experience.
  
- // vari screenshot dei settings
+ <img src="SRC github readme/settingsscreen.jpg" width="232" align="center"   vspace="2">
+
+
+
+
 
 ⚙️​ PocketMark offer various setting and additional feature to complete the experience such as:
 
@@ -56,16 +66,22 @@ Notes can have a color assigned to them to better keep track of them and search 
 	* English 🇬🇧
 	* Italian 🇮🇹​
 	* Romanian ​🇷🇴​
-* Change the order criteria of the notes between last modified and alphabetical 
+* Change the order criteria of the notes between last modified and alphabetical
+* Change color of the markdown syntax highlighting
 * And more
 
 Additionally, the settings panel provides convenient access to various useful resources, such as links to my other apps, a feedback button, credits etc...
 
-//immmagine o gif di apertura file esterno
+<img src="SRC github readme/externalopen.jpg" width="232" align="center"   vspace="2">
 
-PocketMark can also manage, read and modify text file created by other apps (i.e files sent on chat application)
 
- 📶​ PocketMark can work perfectly offline but it's folder can be used by other app to sync notes
+
+
+
+
+📂 PocketMark can also manage, read and modify text file created by other apps (i.e files sent on chat application)
+
+📶​ PocketMark can work perfectly offline but it's folder can be used by other app to sync notes
 
 
 # What can you do to help the app?
