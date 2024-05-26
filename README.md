@@ -42,7 +42,7 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 
 
 
-📨 Notes are easaly shareble with just couple of taps in 3 format:
+📨 Notes are easily shareble with just couple of taps in 3 format:
 
 - Plain text
 - MarkDown file
@@ -81,10 +81,10 @@ Additionally, the settings panel provides convenient access to various useful re
 
 📂 PocketMark can also manage, read and modify text file created by other apps (i.e files sent on chat application)
 
-📶​ PocketMark can work perfectly offline but it's folder can be used by other app to sync notes
+📶​ PocketMark can work perfectly offline and does not have internet functionality but it's folder can be used by other app to sync notes
 
 
-# What can you do to help the app?
+# What can you do to help PocketMark?
 
 Other than just using the app (for which I'm incredibly grateful) you can:
 
