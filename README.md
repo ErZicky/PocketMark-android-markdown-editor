@@ -75,3 +75,7 @@ Other than just using the app (for which I'm incredibly grateful) you can:
 - ⭐ Rate the app on the Playstore //todo: link
 - ​ 💬 Share the app with your friends and online //todo: link
 - ​​ ❤️​ Buy me a coffe with a small tip  [<img src="SRC github readme/kofi-githubbutton_sm-svg.svg">](https://ko-fi.com/N4N179BUE)
+
+## My other works
+
+PocketMark was created just by me in my little free time between my full time job and university, if you liked it consider also checking out my [other apps on the Playstore]([https://google.com](https://play.google.com/store/apps/dev?id=7424750802271343300))
