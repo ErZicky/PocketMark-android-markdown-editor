@@ -31,7 +31,7 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 
 <img src="SRC github readme/fluidtool.gif" width="200" align="center"   vspace="2"> <img src="SRC github readme/fluidocchio.gif" width="200" align="center"   vspace="2">  <img src="SRC github readme/ezgif-4-67eccaf0ce.gif" width="200" align="center"   vspace="2"> 
 
-🖋️ The editor is designed to maximize screen space for the user. The side toolbar remains collapsed when not in use, but it can be easily accessed either by sliding it open or by clicking the icon located in the right corner. (or you can just type the markdown syntax without using it). By pressing the eye icon, will switch between viewing the formatted text and accessing the editor interface with a nice little animation.
+🖋️ The editor is designed to maximize screen space for the user. The side toolbar remains collapsed when not in use, but it can be easily accessed either by sliding it open or by clicking the icon located in the right corner. (or you can just type the markdown syntax without using it). Pressing the eye icon will switch between viewing the formatted text and the editor with a nice little animation.
 
 💡 PocketMark supports the complete Markdown syntax (including images, gift and tables), which is highlighted for clarity as it's being written in the editor.
 
