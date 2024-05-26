@@ -3,11 +3,11 @@
 
 
 
-<img src="/app/src/main/ic_launcher-web.png" align="left" width="128" hspace="10" vspace="10">
-<b>Text editor - Notes &amp; ToDo (for Android)</b>.
-<br/>Simple and lightweight, supporting Markdown, todo.txt, Zim & more!<br/><br/>
+<img src="SRC github readme/PocketMarkBanner.png" width="932" align="center"   vspace="2">
+<b> A beutiful Android Text editor - Notes, MarkDown and much more!</b>.
 
-**Download:**  [Google Play Store](https://google.com), 
+
+## Download:  [Google Play Store](https://google.com)
 
 
 
@@ -31,7 +31,7 @@ The editor is designed to maximize screen space for the user. The side toolbar r
 
 // screenshot o gif dell'editor
 
-PocketMark supports the complete Markdown syntax, which is highlighted for clarity as it's being written in the editor.
+PocketMark supports the complete Markdown syntax (including images, gift and tables), which is highlighted for clarity as it's being written in the editor.
 
 
 //screenshot of share panel
@@ -74,4 +74,4 @@ Other than just using the app (for which I'm incredibly grateful) you can:
 
 - Rate the app on the Playstore //todo: link
 - Share the app with your friends and online //todo: link
-- Buy me a coffe with a small tip [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N179BUE)
+- Buy me a coffe with a small tip [<img src="SRC github readme/kofi-githubbutton_sm-svg.svg">](https://ko-fi.com/N4N179BUE)
