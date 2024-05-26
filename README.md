@@ -61,8 +61,11 @@ PocketMark offer various setting and additional feature to complete the experien
 
 Additionally, the settings panel provides convenient access to various useful resources, such as links to my other apps, a feedback button, credits etc...
 
+//immmagine o gif di apertura file esterno
 
- 🛜 PocketMark can work perfectly offline but it's folder can be used by other app to sync notes
+PocketMark can also manage, read and modify text file created by other apps (i.e files sent on chat application)
+
+ 📶​ PocketMark can work perfectly offline but it's folder can be used by other app to sync notes
 
 
 # What can you do to help the app?
