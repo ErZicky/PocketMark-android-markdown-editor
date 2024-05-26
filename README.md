@@ -4,7 +4,7 @@
 
 
 <img src="SRC github readme/PocketMarkBanner.png" width="932" align="center"   vspace="2">
-<b> A beutiful Android Text editor - Notes, MarkDown and much more!</b>.
+<b> A beautiful Android Text editor - Notes, MarkDown and much more!</b>.
 
 
 ## Download:  [Google Play Store](https://google.com)
