@@ -78,4 +78,4 @@ Other than just using the app (for which I'm incredibly grateful) you can:
 
 ## My other works
 
-PocketMark was created just by me in my little free time between my full time job and university, if you liked it consider also checking out my [other apps on the Playstore]([https://google.com](https://play.google.com/store/apps/dev?id=7424750802271343300))
+PocketMark was created just by me in my little free time between my full time job and university, if you liked it consider also checking out my  [other apps on the Playstore](https://google.com](https://play.google.com/store/apps/dev?id=7424750802271343300 )
