@@ -11,32 +11,32 @@
 
 
 
-PocketMark is a texteditor for android with clean and pleasant looking UI, Specially designed for markdown files but able to read almost any text format, all files created with PocketMark are readable by other text editor software and are saved in publicly accessible folder so that you can sync them with other services as well.
+PocketMark is a text editor for android with clean and pleasant looking UI, Specially designed for markdown files but able to read almost any text format, all files created with PocketMark are readable by other text editor software and are saved in publicly accessible folder so that you can sync them with other services as well.
 
-PocketMark is fully free and there are no premium feature.
+** ​🆓​ PocketMark is fully free and there are no premium feature.**
 
 ## Features and Screenshots
 
 //home page screenshot and gif of deleteing notes
 
 
-PocketMark's goal is to redefine markdown apps, traditionally known for their barebones UI, by offering a more visually appealing and intuitive experience. On the main page, notes are organized in a dynamic grid format, ensuring an organized and fluid interface. The grid dynamically adjusts itself when a note is deleted or a new one is created/modified. By default, the most recently modified note occupies the top position, although users can change this and order the notes by alphabetical order in the settings.
+✨​ PocketMark's goal is to redefine markdown apps, traditionally known for their barebones UI, by offering a more visually appealing and intuitive experience. On the main page, notes are organized in a dynamic grid format, ensuring an organized and fluid interface. The grid dynamically adjusts itself when a note is deleted or a new one is created/modified. By default, the most recently modified note occupies the top position, although users can change this and order the notes by alphabetical order in the settings.
 
 Notes can have a color assigned to them to better keep track of them and search them easily.
 
 
 //screenshot  e gif dell'editor 
 
-The editor is designed to maximize screen space for the user. The side toolbar remains collapsed when not in use, but it can be easily accessed either by sliding it open or by clicking the icon located in the right corner. (or you can just type the markdown syntax without using it). By pressing the eye icon, will switch between viewing the formatted text and accessing the editor interface with a nice little animation.
+🖋️ The editor is designed to maximize screen space for the user. The side toolbar remains collapsed when not in use, but it can be easily accessed either by sliding it open or by clicking the icon located in the right corner. (or you can just type the markdown syntax without using it). By pressing the eye icon, will switch between viewing the formatted text and accessing the editor interface with a nice little animation.
 
 // screenshot o gif dell'editor
 
-PocketMark supports the complete Markdown syntax (including images, gift and tables), which is highlighted for clarity as it's being written in the editor.
+💡 PocketMark supports the complete Markdown syntax (including images, gift and tables), which is highlighted for clarity as it's being written in the editor.
 
 
 //screenshot of share panel
 
-Notes are easaly shareble with just couple of taps in 3 format:
+📨 Notes are easaly shareble with just couple of taps in 3 format:
 
 - Plain text
 - MarkDown file
@@ -44,11 +44,11 @@ Notes are easaly shareble with just couple of taps in 3 format:
 
 // gif della ricerca
 
-On the homepage, you can conveniently search for notes using keywords presents in the title or body. Additionally, you can search based on the color assigned to the note, or combine both criteria for a more refined search experience.
+🔍​ On the homepage, you can conveniently search for notes using keywords presents in the title or body. Additionally, you can search based on the color assigned to the note, or combine both criteria for a more refined search experience.
  
  // vari screenshot dei settings
 
-PocketMark offer various setting and additional feature to complete the experience such as:
+⚙️​ PocketMark offer various setting and additional feature to complete the experience such as:
 
 * Export PocketMark folder as .zip file to let you easily move your notes between device and services
 * Change the theme, PocketMark support both Light and Dark theme
@@ -72,6 +72,6 @@ PocketMark can also manage, read and modify text file created by other apps (i.e
 
 Other than just using the app (for which I'm incredibly grateful) you can:
 
-- Rate the app on the Playstore //todo: link
-- Share the app with your friends and online //todo: link
-- Buy me a coffe with a small tip [<img src="SRC github readme/kofi-githubbutton_sm-svg.svg">](https://ko-fi.com/N4N179BUE)
+- ⭐ Rate the app on the Playstore //todo: link
+- ​ 💬 Share the app with your friends and online //todo: link
+- ​​ ❤️​ Buy me a coffe with a small tip  [<img src="SRC github readme/kofi-githubbutton_sm-svg.svg">](https://ko-fi.com/N4N179BUE)
