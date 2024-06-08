@@ -89,7 +89,7 @@ Additionally, the settings panel provides convenient access to various useful re
 Other than just using the app (for which I'm incredibly grateful) you can:
 
 - ⭐ [Rate this app on the Play Store](http://play.google.com/store/apps/details?id=com.zetadev.markdownapp)
-- ​ 💬 [Share the app with your friends and online]([http://play.google.com/store/apps/details?id=com.zetadev.markdownapp](https://twitter.com/intent/post?text=Do%20you%20need%20to%20create%2C%20edit%20or%20read%20%23markdown%20files%20on%20your%20%23android%20phone%3F%0A%0AWell%20why%20not%20use%20PocketMark%3F%20Simple%2C%20powerful%20and%20good%20looking&url=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.zetadev.markdownapp))
+- ​ 💬 [Share the app with your friends and online](https://twitter.com/intent/post?text=Do%20you%20need%20to%20create%2C%20edit%20or%20read%20%23markdown%20files%20on%20your%20%23android%20phone%3F%0A%0AWell%20why%20not%20use%20PocketMark%3F%20Simple%2C%20powerful%20and%20good%20looking&url=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.zetadev.markdownapp)
 
 ## My other works
 
