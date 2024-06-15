@@ -9,7 +9,7 @@
 
 ## Download it on [Google Play Store]((https://play.google.com/store/apps/details?id=com.ZetaDev.PocketMark))
 
-<a href="http://play.google.com/store/apps/details?id=com.zetadev.markdownapp"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=120px /></a>
+<a href="https://play.google.com/store/apps/details?id=com.ZetaDev.PocketMark"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=120px /></a>
 
 PocketMark is a text editor for android with clean and pleasant looking UI, Specially designed for markdown files but able to read almost any text format, all files created with PocketMark are readable by other text editor software and are saved in publicly accessible folder so that you can sync them with other services as well.
 
