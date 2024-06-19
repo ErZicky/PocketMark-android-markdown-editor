@@ -84,7 +84,7 @@ Additionally, the settings panel provides convenient access to various useful re
 📶​ PocketMark can work perfectly offline and does not have internet functionality but it's folder can be used by other app to sync notes
 
 
-# What can you do to help PocketMark?
+# What can you do to help the app?
 
 Other than just using the app (for which I'm incredibly grateful) you can:
 
