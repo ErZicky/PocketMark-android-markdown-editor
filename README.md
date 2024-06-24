@@ -83,6 +83,8 @@ Additionally, the settings panel provides convenient access to various useful re
 
 📶​ PocketMark can work perfectly offline and does not have internet functionality but it's folder can be used by other app to sync notes
 
+🔍 Accessible by All: PocketMark is fully labeled and compatible with screen reading software, ensuring a seamless experience for users who rely on accessibility features.
+
 
 # What can you do to help the app?
 
