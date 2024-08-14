@@ -40,7 +40,8 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 
 ✌️ With the update 1.5.0 PocketMark support the editing of two markdown notes simultaneously with a split screen view
 
-<img src="SRC github readme/splitpanel.jpg" width="232" align="center"   vspace="2">
+<img src="SRC github readme/splitpanel.jpg" width="232" align="center"   vspace="2"><img src="SRC github readme/mockup split.png" width="232" align="center"   vspace="2">
+
 
 
 
