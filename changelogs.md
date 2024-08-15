@@ -1,3 +1,54 @@
 # CHANGELOG HISTORY
-
+n.b: all dates are in dd/mm/yyyy format.
 ### version 1.5.1
+
+
+### version 1.5.0 (14/8/2023)
+split screen note editing feature added.
+
+Fixed an ui bug where when the spanish language was selected the ukranian one was highlited as well in the setting screen.
+
+### version 1.4.2 (4/8/2023)
+
+fixed a bug which made the text go behind keyboard when typing long notes on some devices.
+
+Letters now will be automatically capitalized after a period.
+
+### version 1.4.1 (31/7/2023)
+
+Added 2 new styles for the notes' cards on the main screen (squared and rounded square).
+
+Increased stability (errors that made the app crash previously are now managed).
+
+### version 1.4.0 (24/7/2023)
+Added the possibility to remove ads by supporting the app.
+
+### version 1.3.0 (14/7/2923)
+Added the changing app's directory path feature.
+
+### version 1.2.2 (4/7/2023)
+Added a setting under "look" to disable/enable the animation when switching between formatted/not formatted text.
+
+Fixed minor ui bugs.
+
+### version 1.2.1 (22/6/2023)
+Added labelling for screen reading software to make the app more accessible.
+
+UI adjustments.
+
+### version 1.2.0
+[ never released to the public ]
+
+### version 1.1.0 (15/6/2023)
+Added word count feature
+
+### version 1.0.2 & 1.0.3
+[ never released to the public ]
+
+### version 1.0.1 (15/6/2023)
+reduced download size.
+
+added an "easter egg" in the setting hub below the version number when selecting ukranian language 🇺🇦
+
+### version 1.0.0 (14/6/2023)
+initial release
