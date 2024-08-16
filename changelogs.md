@@ -1,7 +1,11 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
-### version 1.5.1
 
+### version 1.5.1
+Added pure black dark theme (ideal for amoled displays)
+The split view now will recognize when the phone/tablet is in landscape mode and will put the notes side by side instead one above the other
+Added French translation
+Added possibility to read changelogs
 
 ### version 1.5.0 (14/8/2024)
 split screen note editing feature added.
