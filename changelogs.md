@@ -1,7 +1,7 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
-### version 1.5.1
+### version 1.5.1 (18/8/2024)
 Added pure black dark theme (ideal for amoled displays)
 The split view now will recognize when the phone/tablet is in landscape mode and will put the notes side by side instead one above the other
 Added French translation
