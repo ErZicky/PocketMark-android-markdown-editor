@@ -1,6 +1,10 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+
+### version 1.5.2
+Added a new setting (udner general settings) to display the filename as title if the note does not have a title
+
 ### version 1.5.1 (18/8/2024)
 Added pure black dark theme (ideal for amoled displays)
 The split view now will recognize when the phone/tablet is in landscape mode and will put the notes side by side instead one above the other
