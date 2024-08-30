@@ -3,7 +3,7 @@ n.b: all dates are in dd/mm/yyyy format.
 
 
 ### version 1.5.2
-Added a new setting (udner general settings) to display the filename as title if the note does not have a title
+Added a new setting (under general settings) to display the filename as title if the note does not have a title
 
 ### version 1.5.1 (18/8/2024)
 Added pure black dark theme (ideal for amoled displays)
