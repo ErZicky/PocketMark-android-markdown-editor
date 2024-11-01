@@ -1,6 +1,8 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+### version 1.5.5 (15/10/2024
+Added a Markdown tutorial file in the settings 
 
 ### version 1.5.2
 Added a new setting (under general settings) to display the filename as title if the note does not have a title
