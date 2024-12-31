@@ -1,7 +1,7 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
-### versione 1.5.6 (3/1/2025)
+### version 1.5.6 (3/1/2025)
 Added a new list mode for the notes list in the home page: single item vertical list.
 Can be found under setting > theme > Home page list style
 
