@@ -1,6 +1,12 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+
+## version 1.6.0 (10/3/2025)
+New feature: now is possible to share files in a custom extension added by the user
+
+Fixed bug when sharing txt file where the ".md" remained in the filename
+
 ## version 1.5.7 and 1.5.8 ##
 Fixed bug with duplicate notes
 
