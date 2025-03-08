@@ -52,6 +52,7 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 - Plain text
 - MarkDown file
 - Image (while not ideal for lengthy files, it's perfect for shorter ones)
+- Custom extension inserted by the user (require version 1.6.0)
 
 <img src="SRC github readme/ezgif-4-dd0a973869.gif" width="200" align="center"   vspace="2">
 
@@ -71,6 +72,7 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 	* English 🇬🇧
 	* Italian 🇮🇹​
 	* Romanian ​🇷🇴​
+ 	* French 🇫🇷​	
 * Change the order criteria of the notes between last modified and alphabetical
 * Change color of the markdown syntax highlighting
 * And more
