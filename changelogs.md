@@ -2,6 +2,11 @@
 n.b: all dates are in dd/mm/yyyy format.
 
 
+## version 1.6.1 (12/4/2025)
+
+added a small announcment
+
+
 ## version 1.6.0 (10/3/2025)
 New feature: now is possible to share files in a custom extension added by the user
 
