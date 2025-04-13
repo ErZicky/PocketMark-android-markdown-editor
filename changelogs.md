@@ -1,11 +1,14 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.6.2 (13/4/2025)
+
+Changed where the "follow me" option in the settings leads.
+Instead that redirecting to my X profile it now leads to a collection of places where to follow me
 
 ## version 1.6.1 (12/4/2025)
 
 added a small announcment
-
 
 ## version 1.6.0 (10/3/2025)
 New feature: now is possible to share files in a custom extension added by the user
