@@ -100,6 +100,20 @@ Other than just using the app (for which I'm incredibly grateful) you can:
 - ⭐ [Rate this app on the Play Store](https://play.google.com/store/apps/details?id=com.ZetaDev.PocketMark)
 - ​ 💬 [Share the app with your friends and online](https://twitter.com/intent/post?text=Do%20you%20need%20to%20create%2C%20edit%20or%20read%20%23markdown%20files%20on%20your%20%23android%20phone%3F%0A%0AWell%20why%20not%20use%20PocketMark%3F%20Simple%2C%20powerful%20and%20good%20looking&url=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.zetadev.markdownapp)
 
-## My other works
+
+# Where you can follow me
+
+If you want to remain updated on my projects there are several places where you can follow me:
+
+📣​ [My telegram channel](https://t.me/+KVFswAdR3YhlNjM0)
+
+🦋​ [My Bluesky](https://bsky.app/profile/erzicky.bsky.social)
+
+🐦​ [My X](https://bsky.app/profile/erzicky.bsky.social)
+
+🐈​ [Here on Github](https://github.com/ErZicky)
+
+
+# My other works
 
 PocketMark was created just by me in my little free time between my full time job and university, if you liked it consider also checking out my  [other apps on the Playstore](https://play.google.com/store/apps/dev?id=7424750802271343300 )
