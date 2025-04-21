@@ -1,6 +1,15 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.7.0 (22/4/2025)
+
+Added support for SD cards and external USB drives path when changing pocketmark folder
+
+Storage path can now have spaces in the folders names
+
+Fixed text scaling on some older Xiaomi models
+
+
 ## version 1.6.2 (13/4/2025)
 
 Changed where the "follow me" option in the settings leads.
