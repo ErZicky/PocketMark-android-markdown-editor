@@ -1,6 +1,11 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.8.0 (26/4/2025)
+
+Introduced support for LaTeX formulas
+
+
 ## version 1.7.0 (22/4/2025)
 
 Added support for SD cards and external USB drives path when changing pocketmark folder
