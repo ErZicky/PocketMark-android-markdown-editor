@@ -45,7 +45,7 @@ PocketMark is a text editor for android with clean and pleasant looking UI, Spec
 
 📐​ With update 1.8.0 PocketMark supports Latex formulas, you just need to surround your formula in $$ blocks
 
-<img src="SRC github readme/latex.jpg" width="232" align="center"   vspace="2"><img src="SRC github readme/mockup split.png" width="232" align="center"   vspace="2">
+<img src="SRC github readme/latex.jpg" width="232" align="center"   vspace="2">
 
 
 
