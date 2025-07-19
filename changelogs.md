@@ -1,6 +1,10 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.8.1 (13/7/2025)
+
+Fixed content behind status bar on android 15
+
 ## version 1.8.0 (26/4/2025)
 
 Introduced support for LaTeX formulas
