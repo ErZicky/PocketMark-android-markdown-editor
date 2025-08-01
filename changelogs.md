@@ -1,6 +1,16 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.8.3
+
+Added new feature: Templates. When creating a new empty note, it is now possible to swipe up and select a starting template (not available in split view).
+
+Fixed bugged screen scaling inside the credits tab
+
+## version 1.8.2
+
+[ never released to the public ]
+
 ## version 1.8.1 (13/7/2025)
 
 Fixed content behind status bar on android 15
