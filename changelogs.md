@@ -1,6 +1,10 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+## version 1.8.4, 1.8.5, 1.8.6 September 2025
+
+Minor bugs fixes and changes to comply with google new memory page size.
+
 ## version 1.8.3
 
 Added new feature: Templates. When creating a new empty note, it is now possible to swipe up and select a starting template (not available in split view).
