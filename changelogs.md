@@ -5,7 +5,7 @@ n.b: all dates are in dd/mm/yyyy format.
 
 Minor bugs fixes and changes to comply with google new memory page size.
 
-## version 1.8.3
+## version 1.8.3 (24/8/2025)
 
 Added new feature: Templates. When creating a new empty note, it is now possible to swipe up and select a starting template (not available in split view).
 
