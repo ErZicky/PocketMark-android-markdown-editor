@@ -1,6 +1,10 @@
 # CHANGELOG HISTORY
 n.b: all dates are in dd/mm/yyyy format.
 
+
+**Changelog from now on will appear on the app website here: [PocketMark Changelogs](https://www.zetadevs.com/PocketChange.html)
+
+
 ## version 1.8.4, 1.8.5, 1.8.6 September 2025
 
 Minor bugs fixes and changes to comply with google new memory page size.
